@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cs-ej4101-fall-2019-076-advanced</title>
+    <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-076-advanced/</link>
+    <description>Recent content on cs-ej4101-fall-2019-076-advanced</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2019 13:46:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://aaltomcc.github.io/cs-ej4101-fall-2019-076-advanced/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learned 076</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-076-advanced/posts/learned/</link>
+      <pubDate>Thu, 05 Dec 2019 13:46:57 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-076-advanced/posts/learned/</guid>
+      <description>In this course I learned:
+ How to configure travis (seems pretty similar to CircleCi and Gitlab) A bit more about Hugo (and Hugo seems really nice &amp;lt;3) More about github access tokens  I also developed a bit more paranoia about github access keys, as it seems like one can&#39;t define the keys per repo. This is bad, as the keys can leak and allow questionable actors to change my other repos.</description>
+    </item>
+    
+    <item>
+      <title>This Course 076</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-076-advanced/posts/this-course/</link>
+      <pubDate>Thu, 05 Dec 2019 13:36:30 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-076-advanced/posts/this-course/</guid>
+      <description>I decided to take this course, as I was missing one (1) credit from my thesis and this seemed interesting. I am writing my thesis about DevOps, so ROI should be okay :]
+I feel that DevOps done right (eg. really applied and not just advocated) is a good way to make software development less wasteful and alleviate the deployment pain. In my thesis research I found interesting book about DevOps and it&#39;s impact.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://aaltomcc.github.io/cs-ej4101-fall-2019-076-advanced/posts/hello-world/</link>
+      <pubDate>Thu, 05 Dec 2019 13:08:00 +0200</pubDate>
+      
+      <guid>https://aaltomcc.github.io/cs-ej4101-fall-2019-076-advanced/posts/hello-world/</guid>
+      <description>Please remember to fix climate change and other coordination problems! Plz!</description>
+    </item>
+    
+  </channel>
+</rss>
