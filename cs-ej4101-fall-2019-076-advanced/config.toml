@@ -1,0 +1,4 @@
+baseURL = "https://aaltomcc.github.io/cs-ej4101-fall-2019-076-advanced/"
+languageCode = "en-us"
+title = "cs-ej4101-fall-2019-076-advanced"
+theme = "solar-theme-hugo"
