@@ -13,3 +13,7 @@ keys can leak and allow questionable actors to change my other
 repos. So I'll remove the keys after the course is done.
 
 Yep, secrets management is hard :(
+
+Github does not support setting expiration date to access keys. Having
+expiration date on the key would solve my use case neatly, as the key
+could be set to expire automatically after this course is done.
