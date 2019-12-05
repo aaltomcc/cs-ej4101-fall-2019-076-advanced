@@ -17,7 +17,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  local_dir: public
+  local_dir: cs-ej4101-fall-2019-076-advanced/public
   github_token: $GITHUB_TOKEN # Set in travis-ci.org dashboard
   on:
     branch: master
